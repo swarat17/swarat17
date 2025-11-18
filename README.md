@@ -58,7 +58,7 @@ RAG-based assistant for competitor analysis using advanced NLP and semantic sear
 - **Tech Stack:** Elasticsearch, Sentence-BERT, FastAPI, LangChain, Gemini API, RLHF
 - **Features:** Multi-language translation, semantic retrieval (90% relevance), decision support with citations
 - **Innovation:** RLHF feedback loop for prioritizing high-value business insights
-- [Repository](https://github.com/swarat17/business-intelligence-assistant)
+- [Repository](https://github.com/swarat17/BI-Assistant)
 
 ### ⚽ [VARLite - AI Offside Detection](https://github.com/swarat17/VARLite)
 Real-time offside detection system for single-camera football broadcasts using advanced computer vision.
