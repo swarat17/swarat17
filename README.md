@@ -50,11 +50,7 @@ AI Engineer and Researcher with an MS in Artificial Intelligence from University
 
 ## 📊 GitHub Stats
 
-<!-- Stats card -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swarat17&show_icons=true&theme=tokyonight&count_private=true" />
-
-<!-- Top languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swarat17&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swarat17&theme=tokyonight" />
 
 ## 🏆 Featured Projects
 
