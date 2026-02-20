@@ -50,13 +50,11 @@ AI Engineer and Researcher with an MS in Artificial Intelligence from University
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarat17&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-</div>
+<!-- Stats card -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=swarat17&show_icons=true&theme=tokyonight&count_private=true" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarat17&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
-</div>
+<!-- Top languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=swarat17&layout=compact&theme=tokyonight" />
 
 ## 🏆 Featured Projects
 
