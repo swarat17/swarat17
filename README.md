@@ -68,11 +68,12 @@ Real-time offside detection system for single-camera football broadcasts using a
 - **Features:** Custom SVD-based vanishing point solver, HSV team classification, interactive UI
 - [Repository](https://github.com/swarat17/VARLite)
 
-### 📊 [Yelp Review Analytics Pipeline]
+### 📊 [Yelp Review Analytics Pipeline](https://github.com/swarat17/yelp_reviews_analysis)
 End-to-end distributed ML pipeline for large-scale Yelp dataset analysis and business forecasting.
 - **Tech Stack:** PySpark, Hadoop HDFS, Spark MLlib, NLP, Parquet
 - **Results:** RandomForest regression for business forecasting (RMSE ~1.34), TF-IDF star prediction, KMeans user segmentation
 - **Features:** Hyperparameter tuning, scalable Parquet-based storage, full MLlib pipeline integration
+- [Repository](https://github.com/swarat17/yelp_reviews_analysis)
 
 ### 🧠 [Business Intelligence Assistant](https://github.com/swarat17/BI-Assistant)
 RAG-based assistant for competitor analysis using advanced NLP and semantic search.
